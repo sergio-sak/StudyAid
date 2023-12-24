@@ -1,1 +1,1 @@
-# StudyAId
+# StudyAid
